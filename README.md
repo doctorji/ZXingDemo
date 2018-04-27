@@ -1,6 +1,6 @@
 # ZXingDemo
 
-
+![扫码运行截图]( ZXingDemo/app/src/main/res/mipmap-xxxhdpi/a.png )
 
 基于zxinglib的一个使用demo
 
