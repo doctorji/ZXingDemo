@@ -8,7 +8,7 @@
 
 
 
-！[生成二维码]( ZXingDemo/app/src/main/res/mipmap-xxxhdpi/c.png )
+![生成二维码]( ZXingDemo/app/src/main/res/mipmap-xxxhdpi/c.png )
 
 
 
